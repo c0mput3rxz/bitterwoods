@@ -1034,7 +1034,7 @@ def score_command(self, **kwargs):
 
 @inject("Characters")
 def who_command(self, Characters, **kwargs):
-    self.echo("{G       The Visible Mortals and Immortals of Waterdeep")
+    self.echo("{G      The Visible Mortals and Immortals of Bitterwoods")
     self.echo("{g" + ("-" * 60))
 
     count = 0

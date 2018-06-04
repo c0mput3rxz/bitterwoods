@@ -214,8 +214,8 @@
     "objects": [],
     "overmap_actors": {
         "Bochner": [
-            120,
-            93
+            190,
+            52
         ],
         "Keethrax": [
             106,
@@ -224,6 +224,10 @@
         "Krogenar": [
             115,
             67
+        ],
+        "Nate": [
+            149,
+            91
         ],
         "Recall": [
             115,
